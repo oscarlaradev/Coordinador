@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
