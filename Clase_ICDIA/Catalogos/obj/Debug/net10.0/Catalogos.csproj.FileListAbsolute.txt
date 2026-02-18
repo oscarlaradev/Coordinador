@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/bin/Debug/net10.0/Catalogos
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/bin/Debug/net10.0/Catalogos.deps.json
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/bin/Debug/net10.0/Catalogos.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/bin/Debug/net10.0/Catalogos.dll
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/bin/Debug/net10.0/Catalogos.pdb
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/Catalogos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/Catalogos.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/Catalogos.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/Catalogos.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/Catalogos.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/Catalogos.dll
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/refint/Catalogos.dll
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/Catalogos.pdb
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/Catalogos.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/Catalogos/obj/Debug/net10.0/ref/Catalogos.dll
