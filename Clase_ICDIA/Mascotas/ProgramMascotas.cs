@@ -45,8 +45,8 @@ namespace EjemeploMacota
             //10
             mascotas.Add(new Mascota(10, "Coco", "Ave", "Loro", false, "Javier", 12, true, 0.5, 35, "parlanchín"));
 
-
-            Console.WriteLine("mascota registrada");
+            // Imprimir todas las mascotas registradas
+            Console.WriteLine("\n--- mascotas registradas ---");
 
             foreach (Mascota mascota in mascotas)
             {
@@ -54,9 +54,9 @@ namespace EjemeploMacota
             }
 
 
-            /////
+            // 1. Imprimir a las mascotas que tienen menos de x kilos
             double pesoLimite = 5;
-            Console.WriteLine("mascotas con menos de " + pesoLimite + "kilos:");
+            Console.WriteLine("\n--- mascotas con menos de " + pesoLimite + "kilos:");
 
             foreach (Mascota mascota in mascotas)
             {
@@ -67,9 +67,9 @@ namespace EjemeploMacota
             }
 
 
-            //imprimir a las mascotas que tienen menos de x años 
+            // 2. imprimir a las mascotas que tienen menos de x años 
             int edadReferencia = 3;
-            Console.WriteLine("mascotas" + edadReferencia + "años o menos");
+            Console.WriteLine("\n--- mascotas con " + edadReferencia + " años o menos");
 
             foreach(Mascota mascota in mascotas)
             {
@@ -80,13 +80,66 @@ namespace EjemeploMacota
             }
 
 
-            ///imprimir tamanio
+            // 3. Imprimir mascotas con tamaño menor o igual a un valor específico
             double tamanioMascota = 20;
-            Console.WriteLine("mascota con: " + tamanioMascota + " de tamanio");
+            Console.WriteLine("\n--- mascota con: " + tamanioMascota + " de tamanio");
 
             foreach(Mascota mascota in mascotas)
             {
                 if (mascota.Tamanio <= tamanioMascota)
+                {
+                    Console.WriteLine(mascota);
+                }
+            }
+
+            // 4. Filtrar por Tipo de Mascota (ej. solo Perros)
+            string tipoBuscar = "Perro";
+            Console.WriteLine("\n--- Mascotas de tipo: " + tipoBuscar + " ---");
+            foreach (Mascota mascota in mascotas)
+            {
+                if (mascota.Tipo_Mascota == tipoBuscar || mascota.Tipo_Mascota == "Perra")
+                {
+                    Console.WriteLine(mascota);
+                }
+            }
+
+            // 5. Filtrar por Raza
+            string razaBuscar = "Persa";
+            Console.WriteLine("\n--- Mascotas de raza: " + razaBuscar + " ---");
+            foreach (Mascota mascota in mascotas)
+            {
+                if (mascota.Raza == razaBuscar)
+                {
+                    Console.WriteLine(mascota);
+                }
+            }
+
+            // 6. Filtrar por Cartilla (solo las que tienen)
+            Console.WriteLine("\n--- Mascotas con Cartilla de Vacunación ---");
+            foreach (Mascota mascota in mascotas)
+            {
+                if (mascota.Tiene_Cartilla == true)
+                {
+                    Console.WriteLine(mascota);
+                }
+            }
+
+            // 7. Filtrar por Chip (solo las que tienen)
+            Console.WriteLine("\n--- Mascotas con Chip de identificación ---");
+            foreach (Mascota mascota in mascotas)
+            {
+                if (mascota.Tiene_Chip == true)
+                {
+                    Console.WriteLine(mascota);
+                }
+            }
+
+            // 8. Filtrar por Rasgo Característico
+            string rasgoBuscar = "tranquila";
+            Console.WriteLine("\n--- Mascotas con rasgo: " + rasgoBuscar + " ---");
+            foreach (Mascota mascota in mascotas)
+            {
+                if (mascota.Rasgo_Caracteristico == rasgoBuscar)
                 {
                     Console.WriteLine(mascota);
                 }

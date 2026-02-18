@@ -87,6 +87,5 @@ public class Mascota
         get => rasgo_caracteristico;
         set => rasgo_caracteristico = value;
     }
-
-}
 #endregion
+}
