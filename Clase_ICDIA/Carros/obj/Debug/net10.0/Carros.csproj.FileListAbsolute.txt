@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/Carros/bin/Debug/net10.0/Carros
+/workspaces/Coordinador/Clase_ICDIA/Carros/bin/Debug/net10.0/Carros.deps.json
+/workspaces/Coordinador/Clase_ICDIA/Carros/bin/Debug/net10.0/Carros.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/Carros/bin/Debug/net10.0/Carros.dll
+/workspaces/Coordinador/Clase_ICDIA/Carros/bin/Debug/net10.0/Carros.pdb
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/Carros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/Carros.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/Carros.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/Carros.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/Carros.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/Carros.dll
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/refint/Carros.dll
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/Carros.pdb
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/Carros.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/Carros/obj/Debug/net10.0/ref/Carros.dll
