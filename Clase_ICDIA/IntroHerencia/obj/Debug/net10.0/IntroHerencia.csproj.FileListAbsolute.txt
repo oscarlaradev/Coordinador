@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/bin/Debug/net10.0/IntroHerencia
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/bin/Debug/net10.0/IntroHerencia.deps.json
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/bin/Debug/net10.0/IntroHerencia.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/bin/Debug/net10.0/IntroHerencia.dll
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/bin/Debug/net10.0/IntroHerencia.pdb
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/IntroHerencia.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/IntroHerencia.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/IntroHerencia.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/IntroHerencia.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/IntroHerencia.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/IntroHerencia.dll
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/refint/IntroHerencia.dll
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/IntroHerencia.pdb
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/IntroHerencia.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/IntroHerencia/obj/Debug/net10.0/ref/IntroHerencia.dll
