@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ejemplo_alumnos/1.0.0": {
+        "runtime": {
+          "ejemplo_alumnos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ejemplo_alumnos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

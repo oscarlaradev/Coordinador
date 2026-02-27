@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/bin/Debug/net10.0/ejemplo_alumnos
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/bin/Debug/net10.0/ejemplo_alumnos.deps.json
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/bin/Debug/net10.0/ejemplo_alumnos.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/bin/Debug/net10.0/ejemplo_alumnos.dll
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/bin/Debug/net10.0/ejemplo_alumnos.pdb
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ejemplo_alumnos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ejemplo_alumnos.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ejemplo_alumnos.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ejemplo_alumnos.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ejemplo_alumnos.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ejemplo_alumnos.dll
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/refint/ejemplo_alumnos.dll
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ejemplo_alumnos.pdb
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ejemplo_alumnos.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_alumnos/obj/Debug/net10.0/ref/ejemplo_alumnos.dll
