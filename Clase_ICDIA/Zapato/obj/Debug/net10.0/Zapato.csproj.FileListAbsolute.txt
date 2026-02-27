@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/Zapato/bin/Debug/net10.0/Zapato
+/workspaces/Coordinador/Clase_ICDIA/Zapato/bin/Debug/net10.0/Zapato.deps.json
+/workspaces/Coordinador/Clase_ICDIA/Zapato/bin/Debug/net10.0/Zapato.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/Zapato/bin/Debug/net10.0/Zapato.dll
+/workspaces/Coordinador/Clase_ICDIA/Zapato/bin/Debug/net10.0/Zapato.pdb
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/Zapato.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/Zapato.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/Zapato.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/Zapato.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/Zapato.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/Zapato.dll
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/refint/Zapato.dll
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/Zapato.pdb
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/Zapato.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/Debug/net10.0/ref/Zapato.dll

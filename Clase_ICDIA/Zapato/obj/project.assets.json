@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/Coordinador/Clase_ICDIA/Tennis/Tennis.csproj",
-      "projectName": "Tennis",
-      "projectPath": "/workspaces/Coordinador/Clase_ICDIA/Tennis/Tennis.csproj",
+      "projectUniqueName": "/workspaces/Coordinador/Clase_ICDIA/Zapato/Zapato.csproj",
+      "projectName": "Zapato",
+      "projectPath": "/workspaces/Coordinador/Clase_ICDIA/Zapato/Zapato.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/Coordinador/Clase_ICDIA/Tennis/obj/",
+      "outputPath": "/workspaces/Coordinador/Clase_ICDIA/Zapato/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"

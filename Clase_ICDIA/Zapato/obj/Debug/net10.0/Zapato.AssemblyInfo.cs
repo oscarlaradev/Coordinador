@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Tennis")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Zapato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb63168b0197d0b399b1bceb1e4b7d5f3e6b90df")]
-[assembly: System.Reflection.AssemblyProductAttribute("Tennis")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Tennis")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b909f09f3fcecc256add9828a673ad8d1373d6")]
+[assembly: System.Reflection.AssemblyProductAttribute("Zapato")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Zapato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
