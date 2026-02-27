@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/bin/Debug/net10.0/ejemplo_de_abstraccion
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/bin/Debug/net10.0/ejemplo_de_abstraccion.deps.json
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/bin/Debug/net10.0/ejemplo_de_abstraccion.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/bin/Debug/net10.0/ejemplo_de_abstraccion.dll
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/bin/Debug/net10.0/ejemplo_de_abstraccion.pdb
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ejemplo_de_abstraccion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ejemplo_de_abstraccion.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ejemplo_de_abstraccion.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ejemplo_de_abstraccion.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ejemplo_de_abstraccion.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ejemplo_de_abstraccion.dll
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/refint/ejemplo_de_abstraccion.dll
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ejemplo_de_abstraccion.pdb
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ejemplo_de_abstraccion.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/ejemplo_de_abstraccion/obj/Debug/net10.0/ref/ejemplo_de_abstraccion.dll
