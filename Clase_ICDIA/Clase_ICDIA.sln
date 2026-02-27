@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telefonos", "Telefonos\Tele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clase_definicion", "clase_definicion\clase_definicion.csproj", "{11223344-5566-7788-99AA-BBCCDDEEFF00}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primeros_Programas", "Primeros_Programas\Primeros_Programas.csproj", "{22334455-6677-8899-AABB-CCDDEEFF0011}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,5 +65,9 @@ Global
 		{11223344-5566-7788-99AA-BBCCDDEEFF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11223344-5566-7788-99AA-BBCCDDEEFF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11223344-5566-7788-99AA-BBCCDDEEFF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22334455-6677-8899-AABB-CCDDEEFF0011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22334455-6677-8899-AABB-CCDDEEFF0011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22334455-6677-8899-AABB-CCDDEEFF0011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22334455-6677-8899-AABB-CCDDEEFF0011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

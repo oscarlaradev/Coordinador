@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/bin/Debug/net10.0/Primeros_Programas
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/bin/Debug/net10.0/Primeros_Programas.deps.json
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/bin/Debug/net10.0/Primeros_Programas.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/bin/Debug/net10.0/Primeros_Programas.dll
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/bin/Debug/net10.0/Primeros_Programas.pdb
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/Primeros_Programas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/Primeros_Programas.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/Primeros_Programas.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/Primeros_Programas.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/Primeros_Programas.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/Primeros_Programas.dll
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/refint/Primeros_Programas.dll
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/Primeros_Programas.pdb
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/Primeros_Programas.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/Primeros_Programas/obj/Debug/net10.0/ref/Primeros_Programas.dll
