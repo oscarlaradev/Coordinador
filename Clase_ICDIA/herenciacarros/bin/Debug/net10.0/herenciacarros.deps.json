@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "herenciacarros/1.0.0": {
+        "runtime": {
+          "herenciacarros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "herenciacarros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

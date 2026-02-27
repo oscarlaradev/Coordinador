@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/bin/Debug/net10.0/herenciacarros
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/bin/Debug/net10.0/herenciacarros.deps.json
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/bin/Debug/net10.0/herenciacarros.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/bin/Debug/net10.0/herenciacarros.dll
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/bin/Debug/net10.0/herenciacarros.pdb
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/herenciacarros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/herenciacarros.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/herenciacarros.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/herenciacarros.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/herenciacarros.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/herenciacarros.dll
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/refint/herenciacarros.dll
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/herenciacarros.pdb
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/herenciacarros.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/herenciacarros/obj/Debug/net10.0/ref/herenciacarros.dll
