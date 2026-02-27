@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/bin/Debug/net10.0/operaciones_basicas
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/bin/Debug/net10.0/operaciones_basicas.deps.json
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/bin/Debug/net10.0/operaciones_basicas.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/bin/Debug/net10.0/operaciones_basicas.dll
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/bin/Debug/net10.0/operaciones_basicas.pdb
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/operaciones_basicas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/operaciones_basicas.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/operaciones_basicas.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/operaciones_basicas.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/operaciones_basicas.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/operaciones_basicas.dll
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/refint/operaciones_basicas.dll
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/operaciones_basicas.pdb
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/operaciones_basicas.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/operaciones_basicas/obj/Debug/net10.0/ref/operaciones_basicas.dll
