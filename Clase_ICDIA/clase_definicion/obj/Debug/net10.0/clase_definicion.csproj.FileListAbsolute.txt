@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/bin/Debug/net10.0/clase_definicion
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/bin/Debug/net10.0/clase_definicion.deps.json
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/bin/Debug/net10.0/clase_definicion.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/bin/Debug/net10.0/clase_definicion.dll
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/bin/Debug/net10.0/clase_definicion.pdb
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/clase_definicion.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/clase_definicion.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/clase_definicion.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/clase_definicion.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/clase_definicion.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/clase_definicion.dll
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/refint/clase_definicion.dll
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/clase_definicion.pdb
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/clase_definicion.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/clase_definicion/obj/Debug/net10.0/ref/clase_definicion.dll
