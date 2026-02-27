@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemplo_alumnos", "ejemplo_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operaciones_basicas", "operaciones_basicas\operaciones_basicas.csproj", "{55667788-99AA-BBCC-DDEE-FF0011223344}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "complejos", "complejos\complejos.csproj", "{66778899-AABB-CCDD-EEFF-001122334455}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,5 +89,9 @@ Global
 		{55667788-99AA-BBCC-DDEE-FF0011223344}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55667788-99AA-BBCC-DDEE-FF0011223344}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55667788-99AA-BBCC-DDEE-FF0011223344}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66778899-AABB-CCDD-EEFF-001122334455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66778899-AABB-CCDD-EEFF-001122334455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66778899-AABB-CCDD-EEFF-001122334455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66778899-AABB-CCDD-EEFF-001122334455}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

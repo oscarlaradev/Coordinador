@@ -1,0 +1,15 @@
+/workspaces/Coordinador/Clase_ICDIA/complejos/bin/Debug/net10.0/complejos
+/workspaces/Coordinador/Clase_ICDIA/complejos/bin/Debug/net10.0/complejos.deps.json
+/workspaces/Coordinador/Clase_ICDIA/complejos/bin/Debug/net10.0/complejos.runtimeconfig.json
+/workspaces/Coordinador/Clase_ICDIA/complejos/bin/Debug/net10.0/complejos.dll
+/workspaces/Coordinador/Clase_ICDIA/complejos/bin/Debug/net10.0/complejos.pdb
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/complejos.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/complejos.AssemblyInfoInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/complejos.AssemblyInfo.cs
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/complejos.csproj.CoreCompileInputs.cache
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/complejos.sourcelink.json
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/complejos.dll
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/refint/complejos.dll
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/complejos.pdb
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/complejos.genruntimeconfig.cache
+/workspaces/Coordinador/Clase_ICDIA/complejos/obj/Debug/net10.0/ref/complejos.dll
